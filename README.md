@@ -29,6 +29,13 @@
  |Baseball          |Improves muscle power     |3hrs              |
  |Tennis            |Improves self confidence  |2hrs              |
 
+---
+# Pithy Quotes by Two Scientists.
+> "If we knew what it was we were doing, it would not be called research, would it?" – *Albert Einstein*
+
+>"The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence" – *Nikola Tesla*
+
+
 
 
 

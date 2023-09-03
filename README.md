@@ -42,6 +42,8 @@
 
 [Check for the source code](https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup)
 
+```
+
 <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B"
        codebase="http://www.apple.com/qtactivex/qtplugin.cab"
        width="200" height="16">
@@ -56,6 +58,8 @@
    </object>
  <!--> <![endif]-->
 </object>
+
+```
 
 [Check for source code](https://css-tricks.com/snippets/html/embedding-quicktime/)
 

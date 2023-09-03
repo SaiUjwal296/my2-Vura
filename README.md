@@ -16,5 +16,5 @@
     - Beverages
     - Deserts
 
- click here to  [Go to MyStats.md](MyStats.md) check through the stats.md file 
+ click here to  [MyStats](MyStats.md) check through the stats.md file 
  

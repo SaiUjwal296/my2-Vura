@@ -42,7 +42,6 @@
 
 [Check for the source code](https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup)
 
-'''
 <!DOCTYPE HTML>
 
 <html>
@@ -95,7 +94,7 @@
 
 </html>
 
-'''
+
 [Check for source code](https://css-tricks.com/snippets/html/html5-page-structure/)
 
 

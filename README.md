@@ -23,18 +23,13 @@
  Here are the best ever sports that helps to reduces the stressful life and would become active in lifestyle
 
  | Name of the Sport| Reason for Recommandation| Total hours spent|
-
  |------------------|--------------------------|------------------|
-
  |Batmintion        |reduces the fat           |3hrs              |
-
  |Cricket           |Improves our thinking     |2hrs              |
-
  |Baseball          |Improves muscle power     |3hrs              |
-
  |Tennis            |Improves self confidence  |2hrs              |
 
----
+
 
 
  

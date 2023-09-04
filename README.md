@@ -1,7 +1,7 @@
 # my2-Vura
  # Sai Venkata Naga JayaUjwal Vura
  ###### GOA
- Goa stands as a vibrant tapestry of culture, beauty, and relaxation. Its pristine beaches, **warm** turquoise waters, and lush palm trees create a stunning backdrop that draws travelers from around the world**. What makes Goa truly captivating is its unique blend of Portuguese heritage and Indian tradition. From the bustling markets of **Panaji** to the tranquil beaches of Palolem, there's something for every kind of wanderer.
+ Goa is a plesant environment place where can enjoy the beauty and culture and ancient tradition and food habits that run around in some tribal areas where people was very hospality and cashew wine an alocholic energy drink was every famous to taste it everyone are interseted and each person can enjoy and grasp a lot of memories and be comforable for any type of trips 
  
  
  ---

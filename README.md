@@ -1,7 +1,7 @@
 # my2-Vura
  # Sai Venkata Naga JayaUjwal Vura
  ###### GOA
- Goa is a plesant environment place where can enjoy the beauty and culture and ancient tradition and food habits that run around in some tribal areas where people was very hospality and cashew wine an alocholic energy drink was every famous to taste it everyone are interseted and each person can enjoy and grasp a lot of memories and be comforable for any type of trips 
+ Goa is a plesant environment place where can enjoy the beauty and culture and ancient tradition and food habits that run around in some tribal areas where people was very hospality and cashew wine an alocholic energy drink was every famous to taste it everyone are interseted and each person can enjoy and grasp a lot of memories and be comforable for any type of trips.VRFVRTTVTGBTT
  
  
  ---
